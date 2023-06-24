@@ -27,7 +27,7 @@
 - SQLD
 
 # Project
-"Link will be updated soon"
+"Below links will be updated soon"
 ### CV
 - 식품안전나라 대체텍스트 입력을 위한 OCR 구축
 ### NLP
