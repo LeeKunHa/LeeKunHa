@@ -47,6 +47,7 @@
 - 식품안전나라 공공데이터 API 사용법
 - 텍스트 지정 OCR + 이미지분할
 - Reading_Order_Detection 알고리즘
+- 리커트 척도의 상대적 만족도 계산
 
 # Competition
 - '2022년 Elastic과 함께하는 상명 데이터콘서트' (Top4)
