@@ -18,7 +18,7 @@
 # Experience
 - Sports Interactive Games 'Football Manager' Assistant Researcher of 'Hana 1Q K LEAGUE'(2021.06~2023.09)
 - 한국지능정보사회진흥원(NIA) '2022년 데이터 분석 청년인재 양성사업' 데이터분석 교육과정 협약기관 '식품안전정보원'(2022.09~2023.02)
-- 네이버 카페 '데이터전문가포럼' 운영위원(2022.10~현재)
+- 네이버 카페 '데이터전문가포럼' 운영위원(2022.10~Present)
 
 # PUBLICATIONS
 "Will be updated soon"
@@ -37,16 +37,16 @@
 ### Data Analysis
 - 서울시 반려동물 장례식장 최적입지 선정
 - 원자재 리스크관리를 위한 모니터링 웹서비스 구축
-- AWS 농산물 최적생산량 지도(가제목)
+- AWS 농산물 최적생산량 지도(가제목~ing)
 
 # Program
 - 네이버 검색량 상대값 API
 - 네이버 검색량 절대값변환
-- 네이버 뉴스 기간 검색
+- 네이버 뉴스 기간 검색 크롤러
 - mecab 동의어/사용자사전 명령어로 업데이트
 - 식품안전나라 공공데이터 API 사용법
 - 텍스트 지정 OCR + 이미지분할
-- Reading_Order_Detection 알고리즘
+- Reading_Order_Detection 알고리즘 개선
 - 리커트 척도의 상대적 만족도 계산
 
 # Competition
