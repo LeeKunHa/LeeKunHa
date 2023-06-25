@@ -17,7 +17,7 @@
 - LG Aimers 3기(2023.07~2023.09)
 # Experience
 - Sports Interactive Games 'Football Manager' Assistant Researcher of 'Hana 1Q K LEAGUE'(2021.06~2023.09)
-- 한국지능정보사회진흥원(NIA) '2022년 데이터 분석 청년인재 양성사업' 데이터분석 교육과정 협약기관 '식품안전정보원'(2022.09~2023.02)
+- 한국지능정보사회진흥원(NIA) '2022년 데이터 분석 청년인재 양성사업' 데이터분석 교육과정 협약기관 '식품안전정보원' 인턴(2022.09~2023.02)
 - 네이버 카페 '데이터전문가포럼' 운영위원(2022.10~Present)
 
 # PUBLICATIONS
@@ -29,7 +29,7 @@
 # Project
 "Below links will be updated soon"
 ### CV
-- 식품안전나라 대체텍스트 입력을 위한 OCR 구축
+- 식품안전나라 대체텍스트 입력을 위한 OCR 모델 구축
 ### NLP
 - 친환경 사업을 진행하는 기업 이미지를 위한 감성사전 구축
 - 네이버 검색량 데이터 기반 식품 검색어 이상탐지모델(Anomaly Detection) 구축
