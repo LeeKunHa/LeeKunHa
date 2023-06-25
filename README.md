@@ -7,14 +7,15 @@
 ### Sangmyung University, Seoul, Republic of Korea (2017.03~Present)
 - B.L. `Intellectual Property`
 - B.S. `Integrated Major in Bigdata Analytics`
-### Qingdao Chungwoon Korean school, Qingdao, China (2016.03~2017.02)
-### No.2 High School, Qingdao, China (2014.03~2016.02)
+### Qingdao ChungWoon Korean School, Qingdao, China (2016.03~2017.02)
+### No.2 High School International Department, Qingdao, China (2014.03~2016.02)
 
 ### (_External_)
 - 한국데이터산업진흥원 '데이터청년캠퍼스'(2021.06.28~2021.09.10)
 - 한국지능정보사회진흥원(NIA) '2022년 데이터 분석 청년인재 양성사업' 데이터분석 교육과정(2022.05.30~2022.08.31)
 - BDA[Big Data Analysts] 고급반 6기(2023.03~Present)
 - LG Aimers 3기(2023.07~2023.09)
+  
 # Experience
 - Sports Interactive Games 'Football Manager' Assistant Researcher of 'Hana 1Q K LEAGUE'(2021.06~2023.09)
 - 한국지능정보사회진흥원(NIA) '2022년 데이터 분석 청년인재 양성사업' 데이터분석 교육과정 협약기관 '식품안전정보원' 인턴(2022.09~2023.02)
