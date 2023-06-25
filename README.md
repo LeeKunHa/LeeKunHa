@@ -22,6 +22,8 @@
 
 # PUBLICATIONS
 "Will be updated soon"
+- "Paradigm Shift in Creative Works Due to Advancements in Generative AI,  Issues of Copyright Protection for Training Data"
+
 # Certicitation
 - ADSP
 - SQLD
