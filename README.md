@@ -22,7 +22,7 @@
 - 네이버 카페 '데이터전문가포럼' 운영위원(2022.10~Present)
 
 # PUBLICATIONS
-- "Paradigm Shift in Creative Works Due to Advancements in Generative AI,  Issues of Copyright Protection for Training Data", Kunha Lee, May.2023. 
+- "Paradigm Shift in Creative Works Due to Advancements in Generative AI,  Issues of Copyright Protection for Training Data" (May.2023)
 
 # Certicitation
 - ADSP
