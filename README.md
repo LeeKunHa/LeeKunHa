@@ -12,17 +12,17 @@
 ### :pencil2:(_External_)
 | Name | Organization | Date |
 | :----: | :----: | :----: |
-| 데이터청년캠퍼스 | 한국데이터산업진흥원 | 2021.06.28 ~ 2021.09.10 |
+| 데이터청년캠퍼스 | 한국데이터산업진흥원(Korea Data Agency)) | 2021.06.28 ~ 2021.09.10 |
 | 2022년 데이터 분석 청년인재 양성사업 | 한국지능정보사회진흥원(NIA) | 2022.05.30 ~ 2022.08.31 |
-| BDA[Big Data Analysts] 6기 고급반 | BDA[Big Data Analysts] | 2023.03 ~ Present |
-| LG Aimers 3기 | LG AI Research | 2023.07 ~ 2023.09 |
+| BDA[Big Data Analysts] 6th Advanced Class | BDA[Big Data Analysts] | 2023.03 ~ Present |
+| LG Aimers 3th | LG AI Research | 2023.07 ~ 2023.09 |
 
 # :chart_with_upwards_trend:Experience
 | Job | Organization | Work | Date |
 | :----: | :----: | :----: | :----: |
 | 'Football Manager' Assistant Researcher of 'Hana 1Q K LEAGUE' | Sports Interactive | `Insight`, `ORDB` | 2021.06 ~ 2023.09 |
-|  INTERNSHIP | 식품안전정보원(2022년 데이터 분석 청년인재 양성사업 협약기관) | Develop `OCR`, `Anomaly detection` | 2022.09 ~ 2023.02 |
-| Operating Committee(운영위원) | 네이버 카페 '데이터전문가포럼' | `Management`, `Team teaching leader` | 2022.10 ~ Present |
+|  INTERNSHIP | 식품안전정보원(NFSI) | Develop `OCR`, `Anomaly detection` | 2022.09 ~ 2023.02 |
+| Operating Committee(운영위원) | 데이터전문가포럼(Data professional forum) | `Management`, `Team teaching leader` | 2022.10 ~ Present |
 
 # :memo:PUBLICATIONS
 - Kunha Lee, `"Paradigm Shift in Creative Works Due to Advancements in Generative AI,  Issues of Copyright Protection for Training Data"`, Sangmyung University, May. 2023.
