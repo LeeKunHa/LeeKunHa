@@ -12,7 +12,7 @@
 ### :pencil2:(_External_)
 | Name | Organization | Date |
 | :----: | :----: | :----: |
-| 데이터청년캠퍼스 | 한국데이터산업진흥원(Korea Data Agency)) | 2021.06.28 ~ 2021.09.10 |
+| 데이터청년캠퍼스 | 한국데이터산업진흥원(Korea Data Agency) | 2021.06.28 ~ 2021.09.10 |
 | 2022년 데이터 분석 청년인재 양성사업 | 한국지능정보사회진흥원(NIA) | 2022.05.30 ~ 2022.08.31 |
 | BDA[Big Data Analysts] 6th Advanced Class | BDA[Big Data Analysts] | 2023.03 ~ Present |
 | LG Aimers 3th | LG AI Research | 2023.07 ~ 2023.09 |
