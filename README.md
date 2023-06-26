@@ -35,23 +35,23 @@
 ### `"Below links will be updated soon"`
 | FIELD | Subject | Repository | Date |
 | :----: | :----: | :----: | :----: |
-| NLP | 친환경 사업을 진행하는 기업 이미지를 위한 감성사전 구축 |  | 2021.07 ~ 2021.08 |
-| Data Analysis | 원자재 리스크관리를 위한 모니터링 웹서비스 구축 |  | 2022.05 ~ 2022.08 |
-| Data Analysis | 서울시 반려동물 장례식장 최적입지 선정 |  | 2022.07 ~ 2022.08 |
-| NLP | 네이버 검색량 기반 식품 검색어 이상탐지모델(Anomaly Detection) 구축 |  | 2022.10 ~ 2022.12 |
-| CV  | 식품안전나라 대체텍스트 입력을 위한 OCR 모델 구축 |  | 2022.12 ~ 2023.02 |
-| Data Analysis | AWS 농산물 최적생산량 지도(가제목~ing) |  | 2023.06 ~ 2023.08 |
+| NLP | 친환경 사업을 진행하는 기업 이미지를 위한 감성사전 구축<br>(Construct Sentiment Dictionary for Companies Conducting Eco-Friendly Businesses) |  | 2021.07 ~ 2021.08 |
+| Data Analysis | 원자재 리스크관리를 위한 모니터링 웹서비스 구축<br>(Developing Web Monitoring Service for Raw Material Risk Management) |  | 2022.05 ~ 2022.08 |
+| Data Analysis | 서울시 반려동물 장례식장 최적입지 선정<br>(Optimal Location Selection for Pet Funeral Homes in Seoul) |  | 2022.07 ~ 2022.08 |
+| NLP | 네이버 검색량 기반 식품 검색어 이상탐지모델 구축<br>(Anomaly Detection Model for Food Terms Based on Naver Keyword Search Volume) |  | 2022.10 ~ 2022.12 |
+| CV  | 식품안전나라 대체텍스트 입력을 위한 OCR 모델 구축<br>(OCR Model for Alternative Text of 'Food Safety Korea') |  | 2022.12 ~ 2023.02 |
+| Data Analysis | AWS 농산물 최적생산량 지도(가제목~ing)<br>(Optimal Production Quantity Mapping for Agricultural Products) |  | 2023.06 ~ 2023.08 |
 ### :bulb:(_Implement_)
 | FIELD | Subject | Repository |
 | :----: | :----: | :----: |
-| API Using | 네이버 데이터랩 검색량 상대값 API | |
-| API Using, Algorithm | 네이버 검색량 절대값 변환(추정수식) | |
-| Crawler | 네이버 뉴스 기간 검색 크롤러 | |
-| Command Prompt, NLP | mecab 동의어/사용자사전 명령어로 업데이트 | |
-| API Using | 식품안전나라 공공데이터 API 사용법 | |
-| CV | 이미지 범위 지정 OCR + 이미지분할 | |
-| Algorithm, CV | Reading_Order_Detection 알고리즘 개선 | |
-| Statistics | 리커트 척도의 상대적 만족도 계산 | |
+| API Using | 네이버 데이터랩 검색량 API_상대값<br>(Naver Developers 'Data Lab' API_Relative Keyword Search Volume) | |
+| Algorithm | 네이버 검색량 상대값 -> 절대값 추정<br>(Convert Relative Value to Absolute Value of Naver Developers 'Data Lab' API) | |
+| Crawler | 네이버 뉴스 크롤러(기간)<br>(NAVER News Crawler(Period Criteria)) | |
+| Command Prompt, NLP | MeCab 동의어/사용자사전 명령어로 업데이트<br>(Updating Windows MeCab's Synonyms/User Dictionary Using PowerShell) | |
+| API Using | 식품안전나라 공공데이터 API 사용법<br>(Usage Guide for Public APIs of Food Safety Korea) | |
+| CV | 이미지 범위 지정 OCR 프로그램<br>(Image Region-restricted OCR Program) | |
+| Algorithm, CV | Reading Order Detection 개선 알고리즘<br>(Improvement Algorithm for Reading Order Detection) | |
+| Statistics | 리커트 척도의 상대적 만족도 계산<br>(Calculate Relative Satisfaction in Likert Scale) | |
 
 # :trophy:Competition
 | COMPETITION | RANKING | Organization | Date |
