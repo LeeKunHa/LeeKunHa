@@ -45,13 +45,13 @@
 | FIELD | Subject | Repository |
 | :----: | :----: | :----: |
 | API Using | 네이버 데이터랩 검색량 API_상대값<br>(Naver Developers 'Data Lab' API_Relative Keyword Search Volume) | |
-| Algorithm | 네이버 검색량 상대값 -> 절대값 추정<br>(Convert Relative Value to Absolute Value of Naver Developers 'Data Lab' API) | |
-| Crawler | 네이버 뉴스 크롤러(기간)<br>(NAVER News Crawler(Period Criteria)) | |
-| Command Prompt, NLP | MeCab 동의어/사용자사전 명령어로 업데이트<br>(Updating Windows MeCab's Synonyms/User Dictionary Using PowerShell) | |
-| API Using | 식품안전나라 공공데이터 API 사용법<br>(Usage Guide for Public APIs of Food Safety Korea) | |
+| Algorithm, Statistics | 네이버 검색량 상대값 -> 절대값 추정<br>(Convert Relative Value to Absolute Value of Naver Developers 'Data Lab' API) | |
+| Crawler | 네이버 뉴스 크롤러(검색어,기간)<br>(NAVER News Crawler(Keyword,Period)) | |
+| Command Prompt, NLP | PowerShell을 이용한 Windows환경에서의 MeCab 동의어/사용자사전 업데이트<br>(Updating MeCab's Synonyms/User Dictionary Using PowerShell in Windows Environment) | |
+| API Using | 식품안전나라 공공데이터 API 사용법<br>(Usage Guide for Public APIs of 'Food Safety Korea') | |
 | CV | 이미지 범위 지정 OCR 프로그램<br>(Image Region-restricted OCR Program) | |
-| Algorithm, CV | Reading Order Detection 개선 알고리즘<br>(Improvement Algorithm for Reading Order Detection) | |
-| Statistics | 리커트 척도의 상대적 만족도 계산<br>(Calculate Relative Satisfaction in Likert Scale) | |
+| Algorithm, CV | Reading Order Detection 개선 알고리즘<br>(Algorithm for Inprove Reading Order Detection) | |
+| Statistics | 리커트 척도의 상대적 점수 계산<br>(Calculate Relative Score in Likert Scale) | |
 
 # :trophy:Competition
 | COMPETITION | RANKING | Organization | Date |
