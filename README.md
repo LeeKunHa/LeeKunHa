@@ -1,40 +1,38 @@
 # KunHa Lee(이건하) (Republic of Korea) [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FLeeKunHa%2FLeeKunHa&count_bg=%2349AA00&title_bg=%23000000&icon=verizon.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-### I’m studying `Multimodal Learning combined with Computer Vision`, `AI-IP Law(Artificial Intelligence and Intellectual Property Law)`
-#### And also interested in `RL`, `NLP`, `Sport Data Analysis`
+### :book: I’m studying `Multimodal Learning combined with Computer Vision`, `AI-IP Law(Artificial Intelligence and Intellectual Property Law)`
+#### :blue_book: And also interested in `RL`, `NLP`, `Sport Data Analysis`
 
-# Education
+# :mortar_board:Education
 ### Sangmyung University, Seoul, Republic of Korea (2017.03~Present)
 - B.L. `Intellectual Property`
 - B.S. `Integrated Major in Bigdata Analytics`
 ### Qingdao ChungWoon Korean School, Qingdao, China (2016.03~2017.02)
 ### No.2 High School International Department, Qingdao, China (2014.03~2016.02)
-<br/>
-
-### (_External_)
+### :pencil2:(_External_)
 | Name | Organization | Date |
 | :----: | :----: | :----: |
 | 데이터청년캠퍼스 | 한국데이터산업진흥원 | 2021.06.28 ~ 2021.09.10 |
 | 2022년 데이터 분석 청년인재 양성사업 | 한국지능정보사회진흥원(NIA) | 2022.05.30 ~ 2022.08.31 |
 | BDA[Big Data Analysts] 6기 고급반 | BDA[Big Data Analysts] | 2023.03 ~ Present |
 | LG Aimers 3기 | LG AI Research | 2023.07 ~ 2023.09 |
-  
-# Experience
+
+# :chart_with_upwards_trend:Experience
 | Job | Organization | Work | Date |
 | :----: | :----: | :----: | :----: |
 | 'Football Manager' Assistant Researcher of 'Hana 1Q K LEAGUE' | Sports Interactive | `Insight`, `ORDB` | 2021.06 ~ 2023.09 |
 |  INTERNSHIP | 식품안전정보원(2022년 데이터 분석 청년인재 양성사업 협약기관) | Develop `OCR`, `Anomaly detection` | 2022.09 ~ 2023.02 |
 | Operating Committee(운영위원) | 네이버 카페 '데이터전문가포럼' | `Management`, `Team teaching leader` | 2022.10 ~ Present |
 
-# PUBLICATIONS
-- `"Paradigm Shift in Creative Works Due to Advancements in Generative AI,  Issues of Copyright Protection for Training Data"` (May.2023)
+# :memo:PUBLICATIONS
+- Kunha Lee, `"Paradigm Shift in Creative Works Due to Advancements in Generative AI,  Issues of Copyright Protection for Training Data"`, Sangmyung University, May. 2023.
 
-# Certicitation
+# :heavy_check_mark:Certicitation
 - `ADSP`
 - `SQLD`
 
-# Project
-## `"Below links will be updated soon"`
+# :computer:Project
+### `"Below links will be updated soon"`
 | FIELD | Subject | Repository | Date |
 | :----: | :----: | :----: | :----: |
 | NLP | 친환경 사업을 진행하는 기업 이미지를 위한 감성사전 구축 |  | 2021.07 ~ 2021.08 |
@@ -43,9 +41,7 @@
 | NLP | 네이버 검색량 데이터 기반 식품 검색어 이상탐지모델(Anomaly Detection) 구축 |  | 2022.10 ~ 2022.12 |
 | CV  | 식품안전나라 대체텍스트 입력을 위한 OCR 모델 구축 |  | 2022.12 ~ 2023.02 |
 | Data Analysis | AWS 농산물 최적생산량 지도(가제목~ing) |  | 2023.06 ~ 2023.08 |
-<br/>
-
-### (_Implement_)
+### :bulb:(_Implement_)
 | FIELD | Subject | Repository |
 | :----: | :----: | :----: |
 | API Using | 네이버 데이터랩 검색량 상대값 API | |
@@ -57,7 +53,7 @@
 | Algorithm, CV | Reading_Order_Detection 알고리즘 개선 | |
 | Statistics | 리커트 척도의 상대적 만족도 계산 | |
 
-# Competition
+# :trophy:Competition
 | COMPETITION | RANKING | Organization | Date |
 | :----: | :----: | :----: | :----: |
 | 2022년 Elastic과 함께하는 상명 데이터콘서트 | TOP4(Rank2) | 상명대학교 SW중심대학산업단, `Elastic` | 2022.05.16 ~ 2022.08.01 |
