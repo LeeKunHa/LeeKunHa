@@ -12,10 +12,11 @@
 ### :pencil2:(_External_)
 | Name | Organization | Date |
 | :----: | :----: | :----: |
-| 데이터청년캠퍼스 | 한국데이터산업진흥원(Korea Data Agency) | 2021.06.28 ~ 2021.09.10 |
-| 2022년 데이터 분석 청년인재 양성사업 | 한국지능정보사회진흥원(NIA) | 2022.05.30 ~ 2022.08.31 |
+| [데이터청년캠퍼스](https://github.com/LeeKunHa/Data_campus) | 한국데이터산업진흥원(Korea Data Agency) | 2021.06.28 ~ 2021.09.10 |
+| [2022년 데이터 분석 청년인재 양성사업](https://github.com/LeeKunHa/NIA_Data_Analysis#readme) | 한국지능정보사회진흥원(NIA) | 2022.05.30 ~ 2022.08.31 |
 | BDA[Big Data Analysts] 6th Advanced Class | BDA[Big Data Analysts] | 2023.03 ~ Present |
-| LG Aimers 3th | LG AI Research | 2023.07 ~ 2023.09 |
+| [LG Aimers 3th](https://github.com/LeeKunHa/LG-Aimers) | LG AI Research | 2023.07 ~ 2023.09 |
+| [🐘BOAZ🐘 21th](https://github.com/LeeKunHa/BOAZ) | boaz_bigdata | 2023.07 ~ Present |
 
 # :chart_with_upwards_trend:Experience
 | Job | Organization | Work | Date |
@@ -35,9 +36,9 @@
 ### `"Below links will be updated soon"`
 | FIELD | Subject | Repository | Date |
 | :----: | :----: | :----: | :----: |
-| NLP | 친환경 사업을 진행하는 기업 이미지를 위한 감성사전 구축<br>(Construct Sentiment Dictionary for Companies Conducting Eco-Friendly Businesses) |  | 2021.07 ~ 2021.08 |
+| NLP | 친환경 사업을 진행하는 기업 이미지를 위한 감성사전 구축<br>(Construct Sentiment Dictionary for Companies Conducting Eco-Friendly Businesses) | [github](https://github.com/LeeKunHa/Construct-Sentiment-Dictionary-for-Companies-Conducting-Eco-Friendly-Businesses) | 2021.07 ~ 2021.08 |
 | Data Analysis | 원자재 리스크관리를 위한 모니터링 웹서비스 구축<br>(Developing Web Monitoring Service for Raw Material Risk Management) |  | 2022.05 ~ 2022.08 |
-| Data Analysis | 서울시 반려동물 장례식장 최적입지 선정<br>(Optimal Location Selection for Pet Funeral Homes in Seoul) |  | 2022.07 ~ 2022.08 |
+| Data Analysis | 서울시 반려동물 장례식장 최적입지 선정<br>(Optimal Location Selection for Pet Funeral Homes in Seoul) | [github](https://github.com/LeeKunHa/Gbig-Hackathon/blob/main/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%20%EC%B5%9C%EC%A2%85_%EB%B3%B4%EA%B3%A0%EC%84%9C.pdf) | 2022.07 ~ 2022.08 |
 | NLP | 네이버 검색량 기반 식품 검색어 이상탐지모델 구축<br>(Anomaly Detection Model for Food Terms Based on Naver Keyword Search Volume) |  | 2022.10 ~ 2022.12 |
 | CV  | 식품안전나라 대체텍스트 입력을 위한 OCR 모델 구축<br>(OCR Model for Alternative Text of 'Food Safety Korea') |  | 2022.12 ~ 2023.02 |
 | Data Analysis | AWS 농산물 최적생산량 지도(가제목~ing)<br>(Optimal Production Quantity Mapping for Agricultural Products) |  | 2023.06 ~ 2023.08 |
@@ -49,6 +50,7 @@
 | Crawler | 네이버 뉴스 크롤러(검색어,기간)<br>(NAVER News Crawler(Keyword,Period)) | |
 | Command Prompt, NLP | PowerShell을 이용한 Windows환경에서의 MeCab 동의어/사용자사전 업데이트<br>(Updating MeCab's Synonyms/User Dictionary Using PowerShell in Windows Environment) | |
 | API Using | 식품안전나라 공공데이터 API 사용법<br>(Usage Guide for Public APIs of 'Food Safety Korea') | |
+| Crawler | 식품안전나라 게시판 크롤러<br>('Food Safety Korea' Crawler) | |
 | CV | 이미지 범위 지정 OCR 프로그램<br>(Image Region-restricted OCR Program) | |
 | Algorithm, CV | Reading Order Detection 개선 알고리즘<br>(Algorithm for Inprove Reading Order Detection) | |
 | Statistics | 리커트 척도의 상대적 점수 계산<br>(Calculate Relative Score in Likert Scale) | |
@@ -57,6 +59,6 @@
 | COMPETITION | RANKING | Organization | Date |
 | :----: | :----: | :----: | :----: |
 | 2022년 Elastic과 함께하는 상명 데이터콘서트 | TOP4(Rank2) | 상명대학교 SW중심대학산업단, `Elastic` | 2022.05.16 ~ 2022.08.01 |
-| 제4회 2023 연구개발특구 AI SPARK 챌린지 - 공기압축기 이상 판단 | 12/353(3.34%) | `SPACE-S` | 2023.04.03 ~ 2023.04.21 |
-| 제5회 2023 연구개발특구 AI SPARK 챌린지 - 사회문제해결형  | 106/117_(GPU issue) | `SPACE-S` | 2023.04.24 ~ 2023.05.11 |
+| [제4회 2023 연구개발특구 AI SPARK 챌린지 - 공기압축기 이상 판단](https://github.com/LeeKunHa/AI_factory4) | 12/353(3.34%) | `SPACE-S` | 2023.04.03 ~ 2023.04.21 |
+| [제5회 2023 연구개발특구 AI SPARK 챌린지 - 사회문제해결형](https://github.com/LeeKunHa/AI_factory5)  | 106/117_(GPU issue) | `SPACE-S` | 2023.04.24 ~ 2023.05.11 |
 | 2023 AWS, KT AICE와 함께하는 빅데이터·AI경진대회 | Top7~ing | 상명대학교 SW중심대학산업단, `AWS`, `KT` | 2023.05.29 ~ 2023.08.25 |
