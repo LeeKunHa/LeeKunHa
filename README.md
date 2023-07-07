@@ -16,7 +16,7 @@
 | [2022년 데이터 분석 청년인재 양성사업](https://github.com/LeeKunHa/NIA_Data_Analysis#readme) | 한국지능정보사회진흥원(NIA) | 2022.05.30 ~ 2022.08.31 |
 | BDA[Big Data Analysts] 6th Advanced Class | BDA[Big Data Analysts] | 2023.03 ~ Present |
 | [LG Aimers 3th](https://github.com/LeeKunHa/LG-Aimers) | LG AI Research | 2023.07 ~ 2023.09 |
-| [🐘BOAZ🐘 21th](https://github.com/LeeKunHa/BOAZ) | boaz_bigdata | 2023.07 ~ Present |
+| [🐘BOAZ🐘 21th(Analysis)](https://github.com/LeeKunHa/BOAZ) | boaz_bigdata | 2023.07 ~ Present |
 
 # :chart_with_upwards_trend:Experience
 | Job | Organization | Work | Date |
@@ -26,7 +26,7 @@
 | Operating Committee(운영위원) | 데이터전문가포럼(Data professional forum) | `Management`, `Team teaching leader` | 2022.10 ~ Present |
 
 # :memo:PUBLICATIONS
-- Kunha Lee, `"Paradigm Shift in Creative Works Due to Advancements in Generative AI,  Issues of Copyright Protection for Training Data"`, Sangmyung University, May. 2023.
+- Kunha Lee, `"Paradigm Shift in Creative Works Due to Advancements in Generative AI,  Issues of Copyright Protection for Training Data"`, Sangmyung University, May. 2023. _(한국저작권위원회 제16회 저작권 우수 논문 공모전 입상후보~)_
 
 # :heavy_check_mark:Certicitation
 - `ADSP`
