@@ -39,7 +39,7 @@
 | NLP | 친환경 사업을 진행하는 기업 이미지를 위한 감성사전 구축<br>(Construct Sentiment Dictionary for Companies Conducting Eco-Friendly Businesses) | [github](https://github.com/LeeKunHa/Construct-Sentiment-Dictionary-for-Companies-Conducting-Eco-Friendly-Businesses) | 2021.07 ~ 2021.08 |
 | Data Analysis | 원자재 리스크관리를 위한 모니터링 웹서비스 구축<br>(Developing Web Monitoring Service for Raw Material Risk Management) |  | 2022.05 ~ 2022.08 |
 | Data Analysis | 서울시 반려동물 장례식장 최적입지 선정<br>(Optimal Location Selection for Pet Funeral Homes in Seoul) | [github](https://github.com/LeeKunHa/Gbig-Hackathon/blob/main/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%20%EC%B5%9C%EC%A2%85_%EB%B3%B4%EA%B3%A0%EC%84%9C.pdf) | 2022.07 ~ 2022.08 |
-| NLP | 네이버 검색량 기반 식품 검색어 이상탐지모델 구축<br>(Anomaly Detection Model for Food Terms Based on Naver Keyword Search Volume) | github](https://github.com/LeeKunHa/Anomaly-Detection-Model-for-Food-Terms-Based-on-Naver-Keyword-Search-Volume) | 2022.10 ~ 2022.12 |
+| NLP | 네이버 검색량 기반 식품 검색어 이상탐지모델 구축<br>(Anomaly Detection Model for Food Terms Based on Naver Keyword Search Volume) | [github](https://github.com/LeeKunHa/Anomaly-Detection-Model-for-Food-Terms-Based-on-Naver-Keyword-Search-Volume) | 2022.10 ~ 2022.12 |
 | CV  | 식품안전나라 대체텍스트 입력을 위한 OCR 모델 구축<br>(OCR Model for Alternative Text of 'Food Safety Korea') |  | 2022.12 ~ 2023.02 |
 | Data Analysis | AWS 농산물 최적생산량 지도(가제목~ing)<br>(Optimal Production Quantity Mapping for Agricultural Products) |  | 2023.06 ~ 2023.08 |
 ### :bulb:(_Implement_)
