@@ -14,9 +14,9 @@
 | :----: | :----: | :----: |
 | [데이터청년캠퍼스](https://github.com/LeeKunHa/Data_campus) | 한국데이터산업진흥원(Korea Data Agency) | 2021.06.28 ~ 2021.09.10 |
 | [2022년 데이터 분석 청년인재 양성사업](https://github.com/LeeKunHa/NIA_Data_Analysis#readme) | 한국지능정보사회진흥원(NIA) | 2022.05.30 ~ 2022.08.31 |
-| BDA[Big Data Analysts] 6th Advanced Class | BDA[Big Data Analysts] | 2023.03 ~ Present |
-| [LG Aimers 3th](https://github.com/LeeKunHa/LG-Aimers) | LG AI Research | 2023.07 ~ 2023.09 |
-| [🐘BOAZ🐘 21th(Analysis)](https://github.com/LeeKunHa/BOAZ) | boaz_bigdata | 2023.07 ~ Present |
+| BDA[Big Data Analysts] 6th Advanced Class | BDA[Big Data Analysts] | 2023.03 ~ 2023.09 |
+| [LG Aimers 3th](https://github.com/LeeKunHa/LG-Aimers) | LG AI Research | 2023.07 ~ 2023.08 |
+| [🐘BOAZ🐘 21th(Analysis)](https://github.com/LeeKunHa/21Analysis_BASE) | boaz_bigdata | 2023.07 ~ Present |
 
 # :chart_with_upwards_trend:Experience
 | Job | Organization | Work | Date |
@@ -61,4 +61,4 @@
 | 2022년 Elastic과 함께하는 상명 데이터콘서트 | TOP4(Rank2) | 상명대학교 SW중심대학산업단, `Elastic` | 2022.05.16 ~ 2022.08.01 |
 | [제4회 2023 연구개발특구 AI SPARK 챌린지 - 공기압축기 이상 판단](https://github.com/LeeKunHa/AI_factory4) | 12/353(3.34%) | `SPACE-S` | 2023.04.03 ~ 2023.04.21 |
 | [제5회 2023 연구개발특구 AI SPARK 챌린지 - 사회문제해결형](https://github.com/LeeKunHa/AI_factory5)  | 106/117_(GPU issue) | `SPACE-S` | 2023.04.24 ~ 2023.05.11 |
-| 2023 AWS, KT AICE와 함께하는 빅데이터·AI경진대회 | Top7~ing | 상명대학교 SW중심대학산업단, `AWS`, `KT` | 2023.05.29 ~ 2023.08.25 |
+| 2023 AWS, KT AICE와 함께하는 빅데이터·AI경진대회 | Top7~ing | 상명대학교 SW중심대학산업단, `AWS`, `KT` | 2023.05.29 ~ 2023.09.08 |
