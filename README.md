@@ -60,5 +60,4 @@
 | :----: | :----: | :----: | :----: |
 | 2022년 Elastic과 함께하는 상명 데이터콘서트 | TOP4(Rank2) | 상명대학교 SW중심대학산업단, `Elastic` | 2022.05.16 ~ 2022.08.01 |
 | [제4회 2023 연구개발특구 AI SPARK 챌린지 - 공기압축기 이상 판단](https://github.com/LeeKunHa/AI_factory4) | 12/353(3.34%) | `SPACE-S` | 2023.04.03 ~ 2023.04.21 |
-| [제5회 2023 연구개발특구 AI SPARK 챌린지 - 사회문제해결형](https://github.com/LeeKunHa/AI_factory5)  | 106/117_(GPU issue) | `SPACE-S` | 2023.04.24 ~ 2023.05.11 |
 | 2023 AWS, KT AICE와 함께하는 빅데이터·AI경진대회 | Top7~ing | 상명대학교 SW중심대학산업단, `AWS`, `KT` | 2023.05.29 ~ 2023.09.08 |
