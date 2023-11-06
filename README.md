@@ -17,13 +17,14 @@
 | BDA[Big Data Analysts] 6th Advanced Class | BDA[Big Data Analysts] | 2023.03 ~ 2023.09 |
 | [LG Aimers 3th](https://github.com/LeeKunHa/LG-Aimers) | LG AI Research | 2023.07 ~ 2023.08 |
 | [🐘BOAZ🐘 21th(Analysis)](https://github.com/LeeKunHa/21Analysis_BASE) | boaz_bigdata | 2023.07 ~ Present |
+| [Naver BoostCamp AI Tech 6th-NLP](https://github.com/LeeKunHa/AITech) | NAVER CONNECT | 2023.11 ~ Present |
 
 # :chart_with_upwards_trend:Experience
 | Job | Organization | Work | Date |
 | :----: | :----: | :----: | :----: |
 | 'Football Manager' Assistant Researcher of 'Hana 1Q K LEAGUE' | Sports Interactive | `Insight`, `ORDB` | 2021.06 ~ 2023.09 |
 |  INTERNSHIP | 식품안전정보원(NFSI) | Develop `OCR`, `Anomaly detection` | 2022.09 ~ 2023.02 |
-| Operating Committee(운영위원) | 데이터전문가포럼(Data professional forum) | `Management`, `Team teaching leader` | 2022.10 ~ Present |
+| Operating Committee(운영위원) | 데이터전문가포럼(Data professional forum) | `Management`, `Team teaching leader` | 2022.10 ~ 2023.10 |
 
 # :memo:PUBLICATIONS
 - Kunha Lee, `"Paradigm Shift in Creative Works Due to Advancements in Generative AI,  Issues of Copyright Protection for Training Data"`, Sangmyung University, May. 2023. _(한국저작권위원회 제16회 저작권 우수 논문 공모전 입상후보~)_
@@ -41,7 +42,7 @@
 | Data Analysis | 서울시 반려동물 장례식장 최적입지 선정<br>(Optimal Location Selection for Pet Funeral Homes in Seoul) | [github](https://github.com/LeeKunHa/Gbig-Hackathon/blob/main/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%20%EC%B5%9C%EC%A2%85_%EB%B3%B4%EA%B3%A0%EC%84%9C.pdf) | 2022.07 ~ 2022.08 |
 | NLP | 네이버 검색량 기반 식품 검색어 이상탐지모델 구축<br>(Anomaly Detection Model for Food Terms Based on Naver Keyword Search Volume) | [github](https://github.com/LeeKunHa/Anomaly-Detection-Model-for-Food-Terms-Based-on-Naver-Keyword-Search-Volume) | 2022.10 ~ 2022.12 |
 | CV  | 식품안전나라 대체텍스트 입력을 위한 OCR 모델 구축<br>(OCR Model for Alternative Text of 'Food Safety Korea') |  | 2022.12 ~ 2023.02 |
-| Data Analysis | AWS 농산물 최적생산량 지도(가제목~ing)<br>(Optimal Production Quantity Mapping for Agricultural Products) |  | 2023.06 ~ 2023.08 |
+| Data Analysis | AWS 농산물 최적생산량 지도(가제목)<br>(Optimal Production Quantity Mapping for Agricultural Products) |  | 2023.06 ~ 2023.08 |
 ### :bulb:(_Implement_)
 | FIELD | Subject | Repository |
 | :----: | :----: | :----: |
@@ -60,4 +61,4 @@
 | :----: | :----: | :----: | :----: |
 | 2022년 Elastic과 함께하는 상명 데이터콘서트 | TOP4(Rank2) | 상명대학교 SW중심대학산업단, `Elastic` | 2022.05.16 ~ 2022.08.01 |
 | [제4회 2023 연구개발특구 AI SPARK 챌린지 - 공기압축기 이상 판단](https://github.com/LeeKunHa/AI_factory4) | 12/353(3.34%) | `SPACE-S` | 2023.04.03 ~ 2023.04.21 |
-| 2023 AWS, KT AICE와 함께하는 빅데이터·AI경진대회 | Top7~ing | 상명대학교 SW중심대학산업단, `AWS`, `KT` | 2023.05.29 ~ 2023.09.08 |
+| 2023 AWS, KT AICE와 함께하는 빅데이터·AI경진대회 | Top7 | 상명대학교 SW중심대학산업단, `AWS`, `KT` | 2023.05.29 ~ 2023.09.08 |
