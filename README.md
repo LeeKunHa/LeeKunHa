@@ -1,4 +1,5 @@
-# KunHa Lee(이건하) (Republic of Korea)  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FLeeKunHa%2FLeeKunHa&count_bg=%2349AA00&title_bg=%23000000&icon=verizon.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+# KunHa Lee(이건하) (Republic of Korea) [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FLeeKunHa%2FLeeKunHa&count_bg=%2349AA00&title_bg=%23000000&icon=verizon.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ### :book: I’m studying `Multimodal Learning combined with Computer Vision`, `AI-IP Law(Artificial Intelligence and Intellectual Property Law)`
 #### :blue_book: And also interested in `RL`, `NLP`, `Sport Data Analysis`
